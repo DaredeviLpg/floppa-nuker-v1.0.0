@@ -5,6 +5,7 @@
 ## instructions
 - put your id and bot token on config.py 
 - run it on replit or smth
+- usage: `python floppanuker.py`
 
 ## things to note
 
